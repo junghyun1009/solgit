@@ -1,2 +1,2 @@
 안녕하세요.
-git 초보자들을 위한 git gui 서비스, gittle입니다.
+git 초보자들을 위한 git gui 서비스, gittle입니다.!
