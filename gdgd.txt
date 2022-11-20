@@ -1,16 +1,2 @@
-gdgd
-t
-eqqqqqqqqqqqqq
-s
-t
-테스트입니다.
-기틀
-기트르
-기뜨르
-기뜨라미
-test지롱...
-
-QNdkdkd
-
-얄리얄리얄라셩 얄라리얄라 
-얄라얄라얄라
+안녕하세요.
+git 초보자들을 위한 git gui 서비스, gittle입니다.!
